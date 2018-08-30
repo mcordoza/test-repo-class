@@ -1,1 +1,1 @@
-# test-repo-class
+# test-repo
